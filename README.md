@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
+--- 
+### 📖 Academy
+## 
+- 2024.03.14 ~ 2024.08.28
+- 그린컴퓨터학원
+- JAVA 백엔드
+--- 
+### 💻 1st Project
+## 
+- 2024.05.28 ~
+- To Do List
+
+-->
